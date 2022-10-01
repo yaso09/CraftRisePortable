@@ -1,2 +1,2 @@
 # CraftRisePortable
-Portable version of CraftRise
+Guhertoya portable ya CraftRise.
